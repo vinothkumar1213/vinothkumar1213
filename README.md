@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vinothkumar1213
+- 👋 Hi, I’m @vinothkumar.A
 - 👀 I’m interested in learning new tech events/updates
 - 🌱 I’m currently learning programming languages
 - 📫 @avkvinothkumar2002@gmai.com
