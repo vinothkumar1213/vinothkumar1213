@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vinothkumar.A
 - 👀 I’m interested in learning new technologies
-- 🌱 I’m currently learning python
+- 🌱 I know python,java,c languages
 - 📫 @avkvinothkumar2002@gmail.com
 
 <!---
