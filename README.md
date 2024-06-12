@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @vinothkumar.A
+- 👋 Hi, I’m Vinoth Kumar.A
 - 👀 I’m interested in learning new technologies
-- 🌱 I know python,java,c languages
+- 🌱 I know Python, Html, Css, JavaScript and Sql
 - 📫 @avkvinothkumar2002@gmail.com
 
 <!---
